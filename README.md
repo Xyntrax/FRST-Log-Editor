@@ -1,6 +1,6 @@
 # FRST Log Editor
 
-A lightweight text editor built specifically for working with Farbar Recovery Scan Tool (FRST) logs.
+A text editor built specifically for working with Farbar Recovery Scan Tool (FRST) logs.
 
 Originally based on the **FRST Log Cleaner** by [**SkeletalDemise**](https://github.com/SkeletalDemise/FRST_log_cleaner), this project expands the original idea into a dedicated editor for reviewing and cleaning FRST logs. While it can be used as a regular text editor, its primary focus is making FRST logs easier to review.
 
